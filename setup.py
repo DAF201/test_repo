@@ -18,7 +18,7 @@ setuptools.setup(
     ],
     entry_points={
         'console_scripts': [
-            'pkg=test_pkg.main:main',
+            'pkg=pkg.main:main',
         ],
     },
     python_requires=">=3",
