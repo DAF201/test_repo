@@ -1,0 +1,18 @@
+Metadata-Version: 2.1
+Name: testpkg
+Version: 0.0.1
+Summary: N/A
+Home-page: https://github.com/DAF201/test_repo
+Author: N/A
+Author-email: N/A@N/A.com
+License: UNKNOWN
+Download-URL: https://github.com/DAF201/test_repo
+Platform: UNKNOWN
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: MacOS
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Operating System :: Microsoft :: Windows
+Requires-Python: >=3
+
+UNKNOWN
+

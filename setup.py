@@ -1,7 +1,7 @@
 import setuptools
 
 setuptools.setup(
-    name='test',
+    name='testpkg',
     version='0.0.1',
     description='N/A',
     author='N/A',
@@ -9,7 +9,7 @@ setuptools.setup(
     url='https://github.com/DAF201/test_repo',
     download_url='https://github.com/DAF201/test_repo',
     install_requires=[],
-    packages=['test'],
+    packages=['test_pkg'],
     classifiers=[
         'Programming Language :: Python :: 3',
         'Operating System :: MacOS',
@@ -18,7 +18,7 @@ setuptools.setup(
     ],
     entry_points={
         'console_scripts': [
-            'test=test.test:main',
+            'test=main:main',
         ],
     },
     python_requires=">=3",
